@@ -17,7 +17,7 @@
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="https://github.com/IndhumathiBalakumar"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
 
 <br/><br/>
 
@@ -36,7 +36,7 @@
 <img align="right" height="180" src="https://raw.githubusercontent.com/mayankstyles/mayankstyles/main/pixel-art.gif" />
 
 ```yaml
-name: "Your Name"
+name: "IndhumathiBalakumar"
 role: "Java & Frontend Developer (Fresher)"
 degree: "B.E. Electronics and Communication Engineering"
 university: "Anna University — UCE, BIT Campus, Tiruchirappalli"
